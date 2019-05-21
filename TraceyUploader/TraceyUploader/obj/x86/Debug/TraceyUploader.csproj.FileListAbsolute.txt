@@ -1,0 +1,11 @@
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\bin\Debug\TraceyUploader.exe
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\bin\Debug\TraceyUploader.pdb
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.Form1.resources
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.Properties.Resources.resources
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.csproj.GenerateResource.Cache
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.exe
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.pdb
+C:\Users\AJ\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.exe
+C:\Users\AJ\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.pdb
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.csprojAssemblyReference.cache
+C:\Users\anthony.russell\Google Drive\Projects\Tracey\C#\UpLoader\TraceyUploader\TraceyUploader\obj\x86\Debug\TraceyUploader.csproj.CoreCompileInputs.cache
